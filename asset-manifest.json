@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fitness/static/css/main.baeb7221.css",
+    "main.css": "/fitness/static/css/main.ae5e8574.css",
     "main.js": "/fitness/static/js/main.1378e84f.js",
     "static/js/787.ec6b3678.chunk.js": "/fitness/static/js/787.ec6b3678.chunk.js",
     "static/media/Article09.mp4": "/fitness/static/media/Article09.0ea87b5f4be27a2e53ac.mp4",
@@ -34,12 +34,12 @@
     "static/media/Art07_Banner01.jpg": "/fitness/static/media/Art07_Banner01.bc9336598343790a70df.jpg",
     "static/media/instagram.png": "/fitness/static/media/instagram.137771811ad911ccc0fa.png",
     "index.html": "/fitness/index.html",
-    "main.baeb7221.css.map": "/fitness/static/css/main.baeb7221.css.map",
+    "main.ae5e8574.css.map": "/fitness/static/css/main.ae5e8574.css.map",
     "main.1378e84f.js.map": "/fitness/static/js/main.1378e84f.js.map",
     "787.ec6b3678.chunk.js.map": "/fitness/static/js/787.ec6b3678.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.baeb7221.css",
+    "static/css/main.ae5e8574.css",
     "static/js/main.1378e84f.js"
   ]
 }
