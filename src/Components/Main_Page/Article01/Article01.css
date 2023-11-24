@@ -42,7 +42,7 @@ a {
 
 /* 반응형 웹 */
 
-/* @media (max-width: 1440px) {
+@media (max-width: 1440px) {
     .Article01_Container {
         width: 100%;
         margin: none;
@@ -71,4 +71,4 @@ a {
         height: 130px;
     }
 
-} */
+}

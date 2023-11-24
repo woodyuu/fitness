@@ -25,7 +25,7 @@ function Condition({isOpen, onClose}) {
     try {
       const response = await axios.post('https://port-0-fitness-5mk12alpbx32ur.sel5.cloudtype.app/api/users/logout')
       if (response.status === 200) {        
-        window.location.href = '/'
+        window.location.href = '/fitness'
         
         localStorage.removeItem('isLoggedIn')
         localStorage.removeItem('name')

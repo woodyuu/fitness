@@ -64,8 +64,8 @@ function Login(){
           localStorage.setItem('isAdmin', response.data.user.isAdmin)
 
           
-          window.location.href = 'http://localhost:3000/'  
-          window.history.pushState({}, document.title, 'http://localhost:3000/')               
+          window.location.href = '/fitness'  
+          window.history.pushState({}, document.title, '/fitness')               
         }else if(response.data.code === 400){
           console.log('로그인 실패')
           setLoginError('아이디나 비밀번호를 다시확인 하세요.')
