@@ -80,5 +80,17 @@
     .map_container{
         flex-direction: column;
         height: 550px;
+        top: 130px;
+    }
+    .map_area{
+        height: 500px;
+    }
+    .location_info{
+        height: 300px;
+    }
+    .location_info_li{
+        height: 30px;
+        line-height: 30px;
+        font-size: .8rem;
     }
 }
