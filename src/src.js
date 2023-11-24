@@ -5,6 +5,7 @@ const logger = require('morgan')
 const mongoose = require('mongoose')
 const cors = require('cors')
 const usersRouter = require('../src/Components/Sub_Page/Server/Route/Users')
+const Router = require('../src/server/routes/Announcements')
 const bodyParser = require('body-parser')
 
 app.use(bodyParser.json())
@@ -27,6 +28,7 @@ mongoose.connect('mongodb+srv://woody:vhrvnd17@woody.uugxmbw.mongodb.net/?retryW
 app.use(express.json())
 app.use(logger('tiny'))
 app.use('/api/users', usersRouter)
+app.use('/api/announcement', Router)
 
 // 에러 핸들링 미들웨어 (맨 위에 위치)
 app.use((err, req, res, next) => {
