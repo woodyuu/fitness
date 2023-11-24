@@ -132,7 +132,7 @@
     font-size: 1rem;
   }
 }
-@media screen and (max-width: 360px){
+@media screen and (max-width: 400px){
   .info_modal{
     width: 18rem;
   }

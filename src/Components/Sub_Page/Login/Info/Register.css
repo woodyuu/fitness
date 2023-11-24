@@ -139,32 +139,36 @@
   }
 }
 
-@media screen and (max-width: 360px){
+@media screen and (max-width: 400px){
+  .register_close button{
+    font-size: 1rem;
+  }
   .register_form h2{
-    font-size: 1.5rem;
-    line-height: 2rem;
+    font-size: 1rem;
+    line-height: 1rem;
     margin-left: 1rem;
   }
   .register_info label{
-    font-size: .8rem;
+    font-size: .7rem;
   } 
   .register_info input{
     width: 15rem;
-    font-size: .8rem;
+    font-size: .7rem;
   }
   .register_id_check button{
     right: 0;
     width: 3.5rem;
-    height: 2rem;      
+    height: 1.5rem;      
   }
-  .register_form form{
+  /* .register_form form{
     margin-bottom: 1rem;
-  }
+  } */
   .register_form form label p{
     font-size: .4rem;
   } 
   .register_btn button{
     margin-top: 0;
     font-size: .6rem;
+    height: 2rem;
   } 
 }
