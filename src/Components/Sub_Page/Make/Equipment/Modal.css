@@ -92,20 +92,28 @@
 
 @media screen and (max-width: 480px){
   .modal_box{
-    width: 20rem; height: 35rem;    
+    width: 15rem; height: 28rem;    
   }
-  .modal_box img{
-    width: 12rem; height: 14rem;
-    margin-bottom: 1rem;
-  }
-  .modal_box_text h2{
+  .modal_box button {
     font-size: 1rem;
   }
+  .modal_box img{
+    width: 10rem; height: 12rem;
+    margin-bottom: .7rem;
+  }
+  .modal_box_text h2{
+    font-size: .7rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
   .modal_box_text p{
-    font-size: .8rem;
+    font-size: .6rem;
+    margin-bottom: 0; 
+    padding-bottom: 0;   
   }
   .modal_box_more button{
     font-size: .6rem;
+    padding-top: 1rem;
   }
 }
 

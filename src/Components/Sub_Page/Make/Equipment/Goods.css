@@ -27,6 +27,7 @@
   border: 1px solid lightgray;
   background: white;
   cursor: pointer;
+  text-align: center;
 }
 .pagination button:hover{
   background: #eee;
@@ -49,8 +50,8 @@
 
 @media screen and (max-width: 480px){
   .goods_card{
-    width: 20rem;
-    height: 21rem; 
+    width: 15rem;
+    height: 17rem; 
     margin-right: 0;
   }
 }

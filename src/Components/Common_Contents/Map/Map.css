@@ -2,11 +2,12 @@
     width: 100%;
 }
 .map_container{
-    width: 95%;
+    /* width: 95%; */
     height: 800px;
     position: fixed;
     top: 155px;
     left: 50px;
+    right: 50px;
     display: flex;
     flex-direction: row;
     gap: 20px;
@@ -15,7 +16,7 @@
 .map_area{
     /* width: 1200px; */
     flex-grow: 3;
-    height: 800px;
+    height: 700px;
 }
 
 #map{
@@ -28,6 +29,7 @@
     border-top: 1px solid #e4e0dd;
     /* border-bottom: 1px solid #e4e0dd; */
     overflow-y: auto;
+    height: 700px;
 }
 .location_info::-webkit-scrollbar {
     width: .5rem;  /* 스크롤바의 너비 */
@@ -72,4 +74,10 @@
     border: 1px solid #ccc;
     background-color: #fff;
     padding: 5px;
+}
+
+@media screen and (max-width: 480px){
+    .map_container{
+        flex-direction: column;
+    }
 }
