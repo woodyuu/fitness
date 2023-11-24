@@ -23,7 +23,7 @@ function Condition({isOpen, onClose}) {
 
   const handleLogout = async () => {
     try {
-      const response = await axios.post('http://localhost:5000/api/users/logout')
+      const response = await axios.post('https://port-0-fitness-5mk12alpbx32ur.sel5.cloudtype.app/api/users/logout')
       if (response.status === 200) {        
         window.location.href = '/'
         

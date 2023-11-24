@@ -45,7 +45,7 @@ function Login(){
       if(userId === '' || password === ''){
         setLoginError('아이디나 비밀번호를 입력하세요.')
       }else{
-        const response = await axios.post('http://localhost:5000/api/users/login', {
+        const response = await axios.post('https://port-0-fitness-5mk12alpbx32ur.sel5.cloudtype.app/api/users/login', {
           userId, password
         })
         console.log(response.data)
