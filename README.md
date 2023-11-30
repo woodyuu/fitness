@@ -24,7 +24,7 @@
 ## 기술스택
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
-    <p><strong>프론트엔드</strong></p>
+    <p><strong>Front</strong></p>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -34,7 +34,7 @@
         <img src="https://img.shields.io/badge/React Router-CA4545?style=for-the-badge&logo=React Router&logoColor=white">
     </div>
     <!-- Backend -->
-    <p><strong>백엔드</strong></p>
+    <p><strong>Back</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -44,25 +44,25 @@
         <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=Nodemon&logoColor=white"> 
     </div>
     <!-- Database -->
-    <p><strong>데이터베이스</strong></p>
+    <p><strong>Database</strong></p>
     <div>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">         
     </div>      
     <!--Development Tools -->
-    <p><strong>개발프로그램</strong></p>
+    <p><strong>Develop Tool</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
         <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">        
     </div>
     <!-- Version Control -->
-    <p><strong>버전 관리</strong></p>
+    <p><strong>Version</strong></p>
     <div>
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> 
         <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">         
     </div> 
     <!-- Communication -->
-    <p><strong>의사소통</strong></p>
+    <p><strong>Communication</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white">               
         <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">               
